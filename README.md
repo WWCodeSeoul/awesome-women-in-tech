@@ -8,8 +8,8 @@
 * [국내 여성](korean_women.md) 
 * [해외 여성](abroad_women.md)
 * [기술 컨퍼런스 발표](presentations.md)
-* [기술 서적](books.md)
-* [여성 기술인을 위한 행사](events.md)
+* [기술 서적 및 강좌 콘텐츠](contents.md)
+* [행사와 세미나](events.md)
 * [여성 기술 커뮤니티 및 지원 단체](organization.md)
 
 # 기여하기
