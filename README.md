@@ -7,8 +7,10 @@
 # 목차
 * [국내 여성](korean_women.md) 
 * [해외 여성](abroad_women.md)
+* [기술 컨퍼런스 발표](presentations.md)
+* [기술 서적](books.md)
+* [여성 기술인을 위한 행사](events.md)
 * [여성 기술 커뮤니티 및 지원 단체](organization.md)
-
 
 # 기여하기
 * 인명 등록 시, 풀 리퀘스트를 보내주세요.
