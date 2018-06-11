@@ -26,68 +26,43 @@
     [Y](##Y)
     [Z](##Z)
 
-## ㄱ
+## A
 
 | Name | Blog | Description | Location | Social |
 |---|---|---|---|---|
 
 
 
-## ㄴ
+## B
 
 | Name | Blog | Description | Location | Social |
 |---|---|---|---|---|
 
 
-## ㄷ
+## C
 
 | Name | Blog | Description | Location | Social |
 |---|---|---|---|---|
 
 
-## ㄹ
+## D
 
 | Name | Blog | Description | Location | Social |
 |---|---|---|---|---|
 
-## ㅁ
+## E
 
 | Name | Blog | Description | Location | Social |
 |---|---|---|---|---|
 
 
-## ㅂ
+## F
 
 | Name | Blog | Description | Social |
 |---|---|---|---|
 
-## ㅅ
+## G
 
 | Name | Blog | Description | Location | Social |
 |---|---|---|---|---|
 
-
-## ㅇ
-| Name | Blog | Description | Location | Social |
-|---|---|---|---|---|
-| 이수진 | https://sujinlee.me/ | Frontend Web, Python, Javascript, React, Music Information Retrieval | 서울 |  [![](icons/facebook-icon.png)](https://www.facebook.com/sujinlee.me) [![](icons/twitter-icon.png)](https://twitter.com/sujinleeme) [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/leesujin/)|
-
-## ㅈ
-
-| Name | Blog | Description | Location | Social |
-|---|---|---|---|---|
-
-## ㅊ
-
-| Name | Blog | Description | Location | Social |
-|---|---|---|---|---|
-
-## ㅍ
-
-| Name | Blog | Description | Location | Social |
-|---|---|---|---|---|
-
-## ㅎ
-
-| Name | Blog | Description | Location | Social |
-|---|---|---|---|---|
