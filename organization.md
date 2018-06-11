@@ -4,16 +4,13 @@
 
 | Name | Website | Description | Location | Social |
 |---|---|---|---|---|
+| Django Girls Seoul |  |  | 서울 |[![](icons/facebook-icon.png)](https://www.facebook.com/djangogirlsseoul)|
+| Django Girls Daejeon |  |  | 대전 | [![](icons/facebook-icon.png)](https://www.facebook.com/djangogirlsdaejeon)|
+| Girls In Tech | http://seoul.girlsintech.org/ | 기술 분야의 여성들을 위한 세미나와 교육, 네트워킹을 하는 글로벌 커뮤니티 입니다. | 서울 |  [![](icons/facebook-icon.png)](https://www.facebook.com/GITSeoul/)|
 | Women Who Code Seoul |  | 기술 분야의 여성들을 위한 세미나와 교육, 네트워킹을 하는 글로벌 커뮤니티 입니다. | 서울 |  [![](icons/facebook-icon.png)](https://www.facebook.com/wwcodeseoul)|
-
-
-- 여성개발자모임터
-
-- Django Girls Seoul
-
-- Django Girls Daejeon
-
-- 걸즈로봇
+| 걸스로봇 |  | 걸스로봇은 더 많은 여성들이 이공계 분야에 진출해 끝까지 살아남을 수 있도록 돕는 소셜벤처입니다. |  |  [![](icons/facebook-icon.png)](http://girlsrobot.co.kr/)|
+| 스타트업 여성들의 일과 삶 |  | 기술 분야의 여성들을 위한 세미나와 교육, 네트워킹을 하는 글로벌 커뮤니티 입니다. | 서울 |  [![](icons/facebook-icon.png)](https://www.facebook.com/groups/StartupWomenInKorea/)|
+| 여성개발자모임터 |  |  | 서울 |  [![](icons/facebook-icon.png)](https://www.facebook.com/groups/womendevel/)|
 
 
 ## 해외
