@@ -1,16 +1,26 @@
 
-# 여성 개발 커뮤니티 
+# 여성 기술 커뮤니티 및 지원 단체
 ## 국내
-- Women Who Code Seoul
 
-- 여성개발자모임터 
+| Name | Website | Description | Location | Social |
+|---|---|---|---|---|
+| Women Who Code Seoul |  | 기술 분야의 여성들을 위한 세미나와 교육, 네트워킹을 하는 글로벌 커뮤니티 입니다. | 서울 |  [![](icons/facebook-icon.png)](https://www.facebook.com/wwcodeseoul)|
+
+
+- 여성개발자모임터
 
 - Django Girls Seoul
 
 - Django Girls Daejeon
 
+- 걸즈로봇
+
 
 ## 해외
+
+| Name | Website | Description | Location | Social |
+|---|---|---|---|---|
+
 - [Black Girls Code](http://www.blackgirlscode.com/) - Organization devoted to showing the world that black girls can code.
 
 - [Django Girls](https://djangogirls.org/) - Non-profit organization and a community that empowers and helps women to organize programming workshops.
