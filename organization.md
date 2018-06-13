@@ -42,6 +42,8 @@
 
 - [Girl Develop It](https://www.girldevelopit.com/) - Nonprofit organization that exists to provide affordable and judgment-free opportunities for women interested in learning web and software development.
 
+- [Vue Vixens](https://vuevixens.org) - Vue Vixens are foxy people who identify as women and who want to learn Vue.js to make websites and mobile apps.
+
 - [Women Techmakers](https://www.womentechmakers.com/) - Google's program that provides visibility, community, and resources for women in technology.
 
 - [Women Who Code](https://www.womenwhocode.com/) - Women Who Code is a global community empowering women to excel in technology fields through resources, job boards, conference scholarships and other member benefits.
