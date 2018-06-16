@@ -64,7 +64,8 @@
 
 | Name | Blog | Description | Location | Social |
 |---|---|---|---|---|
-| 정희연 | https://yeun.github.io/ | UX/UI | 서울 | |
+| 정희연 | https://yeun.github.io/ | UX/UI, [Open color](https://yeun.github.io/open-color/), [Open Arrow](https://yeun.github.io/open-arrow/) | 서울 | |
+| 진유림 | https://milooy.wordpress.com/ | Frontend, [9XD](http://9xd.github.io/)| 서울 | |
 
 ## ㅊ
 
