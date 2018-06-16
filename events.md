@@ -1,4 +1,5 @@
 # 관련 행사
+여성 기술인들을 위한 주최 단체/기관/커뮤니티에서 공고한 행사만 등록 가능합니다.
 
 ## 2018
 | Date | Name | Website | Description | Location | Social |
