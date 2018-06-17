@@ -59,7 +59,8 @@
 | Name | Blog | Description | Location | Social |
 |---|---|---|---|---|
 | 이수진 | https://sujinlee.me/ | Frontend Web, Python, Javascript, React, Music Information Retrieval | 서울 |  [![](icons/facebook-icon.png)](https://www.facebook.com/sujinlee.me) [![](icons/twitter-icon.png)](https://twitter.com/sujinleeme) [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/leesujin/)|
-
+| 임예지 | https://yayyz.github.io/ | Backend Web | 성남 | |
+ 
 ## ㅈ
 
 | Name | Blog | Description | Location | Social |
