@@ -72,6 +72,7 @@
 
 | Name | Blog | Description | Location | Social |
 |---|---|---|---|---|
+| 채수정 | https://github.com/SooJungChae | Frontend Web, Spring, C#, UX/UI design | 성남 | [![](icons/facebook-icon.png)](https://www.facebook.com/soojung.chae.3) [![](icons/naver-blog-icon.png)](https://blog.naver.com/naan_ace)|
 
 ## ㅍ
 
