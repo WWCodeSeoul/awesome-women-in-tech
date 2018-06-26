@@ -61,6 +61,7 @@
 | 이수진 | https://sujinlee.me/ | Frontend Web, Python, Javascript, React, Music Information Retrieval | 서울 |  [![](icons/facebook-icon.png)](https://www.facebook.com/sujinlee.me) [![](icons/twitter-icon.png)](https://twitter.com/sujinleeme) [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/leesujin/)|
 | 임예지 | https://yayyz.github.io/ | Backend Web | 성남 | |
 | 이나라 | https://daisyleenr.github.io/ | Web Programmer, Growth Engineer | 서울 | [![](icons/facebook-icon.png)](https://www.facebook.com/daisyleenr) [![](icons/github-icon.png)](https://github.io/daisyleenr) [![](icons/email-icon.png)](daisyleenr@gmail.com) |
+| 이고은 | http://goeunlee.tistory.com/ | UX design, Frontend web | 성남 | ![](icons/linkedin-icon.png)]https://www.linkedin.com/in/goeun-lee-56a523159/ |
 
  
 ## ㅈ
