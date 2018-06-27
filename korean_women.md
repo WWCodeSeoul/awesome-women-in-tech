@@ -64,7 +64,7 @@
 | 임예지 | https://yayyz.github.io/ | Backend Web | 성남 | |
 | 이나라 | https://daisyleenr.github.io/ | Web Programmer, Growth Engineer | 서울 | [![](icons/facebook-icon.png)](https://www.facebook.com/daisyleenr) [![](icons/github-icon.png)](https://github.io/daisyleenr) [![](icons/email-icon.png)](daisyleenr@gmail.com) |
 | 이고은 | http://goeunlee.tistory.com/ | UX design, Frontend web | 성남 | [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/goeun-lee-56a523159/) [![](icons/email-icon.png)](hi.goeun.lee@gmail.com) |
-
+| 이효은 | https://brunch.co.kr/@edutech |Insturctional Designer, Community/Contents Manager / Connect Foundation | 성남 |annalee102@gmail.com|
  
 ## ㅈ
 
