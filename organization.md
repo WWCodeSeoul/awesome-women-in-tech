@@ -9,6 +9,7 @@
 | Girls In Tech | http://seoul.girlsintech.org/ | 기술 분야의 여성들을 위한 세미나와 교육, 네트워킹을 하는 글로벌 커뮤니티 입니다. | 서울 |  [![](icons/facebook-icon.png)](https://www.facebook.com/GITSeoul/)|
 | Women Who Code Seoul |  | 기술 분야의 여성들을 위한 세미나와 교육, 네트워킹을 하는 글로벌 커뮤니티 입니다. | 서울 |  [![](icons/facebook-icon.png)](https://www.facebook.com/wwcodeseoul)|
 | 걸스로봇 |  | 걸스로봇은 더 많은 여성들이 이공계 분야에 진출해 끝까지 살아남을 수 있도록 돕는 소셜벤처입니다. |  |  [![](icons/facebook-icon.png)](http://girlsrobot.co.kr/)|
+| 고려대이공계여학생네트워크 |  | 이공계 전공 및 테크 업계 지망 여학생들 간 네트워킹, 임파워링, 및 교육 지원을 목표로 활동하는 학생단체입니다. |  |  [![](icons/facebook-icon.png)](https://www.facebook.com/KoreaUnivWise/)|
 | 스타트업 여성들의 일과 삶 |  | 기술 분야의 여성들을 위한 세미나와 교육, 네트워킹을 하는 글로벌 커뮤니티 입니다. | 서울 |  [![](icons/facebook-icon.png)](https://www.facebook.com/groups/StartupWomenInKorea/)|
 | 여성개발자모임터 |  |  | 서울 |  [![](icons/naver-cafe-icon.png)](http://cafe.naver.com/womendevel/) [![](icons/facebook-icon.png)](https://www.facebook.com/groups/womendevel/)|
 | 스페이스살림-디지털살림 |http://blog.naver.com/space-salim/|여성의 디지털 분야 진출과 활동을 지원하는 공간 & 프로젝트. 서울시여성가족재단 운영| 서울 |  [![](icons/naver-blog-icon.png)](http://blog.naver.com/space-salim/) [![](icons/facebook-icon.png)](https://www.facebook.com/2020spacesalim/)|
