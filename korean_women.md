@@ -50,7 +50,7 @@
 
 | Name | Blog | Description | Location | Social |
 |---|---|---|---|---|
-| JUNG MIN PARK | https://thaiming.github.io/ | project director, traveler, creator, food lover, animal lover, nature lover, vipassana meditator | SEOUL | https://www.facebook.com/worldming
+| 박정민 | https://thaiming.github.io/ | project director, traveler, creator, food lover, animal lover, nature lover, vipassana meditator | SEOUL |  [![](icons/facebook-icon.png)](https://www.facebook.com/worldming) |
 
 ## ㅅ
 
