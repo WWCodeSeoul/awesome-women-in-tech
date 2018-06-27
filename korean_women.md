@@ -18,6 +18,9 @@
 
 | Name | Blog | Description | Location | Social |
 |---|---|---|---|---|
+| 강한별 | https://dearcloud09.com/ | Data Analyst, Python, Hipster | 서울 |  [![](icons/facebook-icon.png)](https://www.facebook.com/dearcloud09) [![](icons/twitter-icon.png)](https://twitter.com/dearcloud09) [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/cloud09/)|
+| 김수정 | https://github.com/kimmou92 | programming course product manager, AngelHack Seoul ambassador | 서울 | [![](icons/facebook-icon.png)](https://www.facebook.com/kimmou92?ref=bookmarks) [![](icons/email-icon.png)](soojung.sue@gmail.com) [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/soojung-sue/) |
+| 김미성 | https://github.com/mixsung | | Seoul | |
 
 
 
@@ -46,8 +49,9 @@
 
 ## ㅂ
 
-| Name | Blog | Description | Social |
-|---|---|---|---|
+| Name | Blog | Description | Location | Social |
+|---|---|---|---|---|
+| 박정민 | https://thaiming.github.io/ | project director, traveler, creator, food lover, animal lover, nature lover, vipassana meditator | SEOUL |  [![](icons/facebook-icon.png)](https://www.facebook.com/worldming) |
 
 ## ㅅ
 
@@ -58,13 +62,15 @@
 
 
 ## ㅇ
+
 | Name | Blog | Description | Location | Social |
 |---|---|---|---|---|
 | 이수진 | https://sujinlee.me/ | Frontend Web, Python, Javascript, React, Music Information Retrieval | 서울 |  [![](icons/facebook-icon.png)](https://www.facebook.com/sujinlee.me) [![](icons/twitter-icon.png)](https://twitter.com/sujinleeme) [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/leesujin/)|
 | 임예지 | https://yayyz.github.io/ | Backend Web | 성남 | |
 | 이나라 | https://daisyleenr.github.io/ | Web Programmer, Growth Engineer | 서울 | [![](icons/facebook-icon.png)](https://www.facebook.com/daisyleenr) [![](icons/github-icon.png)](https://github.io/daisyleenr) [![](icons/email-icon.png)](daisyleenr@gmail.com) |
 | 이고은 | http://goeunlee.tistory.com/ | UX design, Frontend web | 성남 | [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/goeun-lee-56a523159/) [![](icons/email-icon.png)](hi.goeun.lee@gmail.com) |
-
+| 이효은 | https://brunch.co.kr/@edutech |Insturctional Designer, Community/Contents Manager / Connect Foundation | 성남 |[![](icons/facebook-icon.png)](https://www.facebook.com/annah.lee1) [![](icons/github-icon.png)](https://github.io/hyoeunlee) [![](icons/email-icon.png)](annalee102@gmail.com) |
+ 
  
 ## ㅈ
 
@@ -74,6 +80,11 @@
 | 진유림 | https://milooy.wordpress.com/ | Frontend, [9XD](http://9xd.github.io/)| 서울 | |
 | 정다해 | https://blog.naver.com/english_daram_g | Web Developer | 서울 | |
 | 지현정 | https://existingjeong.blogspot.com/ | C, C# | 부산 | |
+| 정성윤|  | Data scientist | 서울 | [![](icons/email-icon.png)](seongyoon.me@gmail.com) |
+| Joo Namjeong | | Backend Developer | Seoul || 
+| 정유진 | https://cargocollective.com/yujinchung | Prdouct Marketing Manager, Growth | 서울 |  [![](icons/facebook-icon.png)](https://www.facebook.com/chung.yujin) [![](icons/twitter-icon.png)](https://twitter.com/socialtechnica) [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/chungyujin/)|
+| 주남정 | | Backend Developer | Seoul || 
+
 
 ## ㅊ
 
