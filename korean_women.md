@@ -18,7 +18,8 @@
 
 | Name | Blog | Description | Location | Social |
 |---|---|---|---|---|
-
+| 김수정 | https://github.com/kimmou92 | programming course product manager | 서울 | [![](icons/facebook-icon.png)](https://www.facebook.com/kimmou92?ref=bookmarks) [![](icons/email-icon.png)](soojung.sue@gmail.com) 
+[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/soojung-sue/)
 
 
 ## ㄴ
