@@ -48,8 +48,9 @@
 
 ## ㅂ
 
-| Name | Blog | Description | Social |
-|---|---|---|---|
+| Name | Blog | Description | Location | Social |
+|---|---|---|---|---|
+| JUNG MIN PARK | https://thaiming.github.io/ | project director, traveler, creator, food lover, animal lover, nature lover, vipassana meditator | SEOUL | https://www.facebook.com/worldming
 
 ## ㅅ
 
