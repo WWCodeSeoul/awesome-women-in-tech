@@ -20,6 +20,7 @@
 |---|---|---|---|---|
 | 강한별 | https://dearcloud09.com/ | Data Analyst, Python, Hipster | 서울 |  [![](icons/facebook-icon.png)](https://www.facebook.com/dearcloud09) [![](icons/twitter-icon.png)](https://twitter.com/dearcloud09) [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/cloud09/)|
 | 김수정 | https://github.com/kimmou92 | programming course product manager, AngelHack Seoul ambassador | 서울 | [![](icons/facebook-icon.png)](https://www.facebook.com/kimmou92?ref=bookmarks) [![](icons/email-icon.png)](soojung.sue@gmail.com) [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/soojung-sue/) |
+| Kim Misung | https://github.com/mixsung | | Seoul | |
 
 
 
