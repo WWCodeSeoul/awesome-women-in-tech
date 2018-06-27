@@ -83,7 +83,6 @@
 | 조은량 | https://github.com/tadanmf/ | Web Programmer, Junior Developer | 서울 | [![](icons/facebook-icon.png)](https://www.facebook.com/tadanmf) [![](icons/email-icon.png)](tadanmf@gmail.com) [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/tamiii/) |
 | 지현정 | https://existingjeong.blogspot.com/ | C, C# | 부산 | |
 | 정성윤|  | Data scientist | 서울 | [![](icons/email-icon.png)](seongyoon.me@gmail.com) |
-| Joo Namjeong | | Backend Developer | Seoul || 
 | 정유진 | https://cargocollective.com/yujinchung | Prdouct Marketing Manager, Growth | 서울 |  [![](icons/facebook-icon.png)](https://www.facebook.com/chung.yujin) [![](icons/twitter-icon.png)](https://twitter.com/socialtechnica) [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/chungyujin/)|
 | 주남정 | | Backend Developer | 서울 || 
 
