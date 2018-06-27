@@ -53,6 +53,8 @@
 
 | Name | Blog | Description | Location | Social |
 |---|---|---|---|---|
+| 신하영 | https://edustella.github.io/ | researcher, feminist, supporter for women in tech | 서울 | [![](icons/facebook-icon.png)](https://www.facebook.com/stella.h.shin) [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/stella-hayoung-shin/)| [![](icons/email-icon.png)](edustella@daum.net) |
+
 
 
 ## ㅇ
