@@ -79,6 +79,8 @@
 | 정다해 | https://blog.naver.com/english_daram_g | Web Developer | 서울 | |
 | 정성윤|  | Data scientist | 서울 | [![](icons/email-icon.png)](seongyoon.me@gmail.com) |
 | Joo Namjeong | | Backend Developer | Seoul || 
+| 정유진 | https://cargocollective.com/yujinchung | Prdouct Marketing Manager, Growth | 서울 |  [![](icons/facebook-icon.png)](https://www.facebook.com/chung.yujin) [![](icons/twitter-icon.png)](https://twitter.com/socialtechnica) [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/chungyujin/)|
+| 주남정 | | Backend Developer | Seoul || 
 
 
 ## ㅊ
