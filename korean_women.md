@@ -18,7 +18,7 @@
 
 | Name | Blog | Description | Location | Social |
 |---|---|---|---|---|
-
+| 강한별 | https://dearcloud09.com/ | Data Analyst, Python, Hipster | 서울 |  [![](icons/facebook-icon.png)](https://www.facebook.com/dearcloud09) [![](icons/twitter-icon.png)](https://twitter.com/dearcloud09) [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/cloud09/)|
 
 
 ## ㄴ
