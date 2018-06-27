@@ -73,6 +73,8 @@
 | 정희연 | https://yeun.github.io/ | UX/UI, [Open color](https://yeun.github.io/open-color/), [Open Arrow](https://yeun.github.io/open-arrow/) | 서울 | |
 | 진유림 | https://milooy.wordpress.com/ | Frontend, [9XD](http://9xd.github.io/)| 서울 | |
 | 정다해 | https://blog.naver.com/english_daram_g | Web Developer | 서울 | |
+| 정성윤|  | Data scientist | 서울 | [![](icons/email-icon.png)](seongyoon.me@gmail.com) |
+
 
 ## ㅊ
 
