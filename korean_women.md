@@ -77,7 +77,8 @@
 | 정희연 | https://yeun.github.io/ | UX/UI, [Open color](https://yeun.github.io/open-color/), [Open Arrow](https://yeun.github.io/open-arrow/) | 서울 | |
 | 진유림 | https://milooy.wordpress.com/ | Frontend, [9XD](http://9xd.github.io/)| 서울 | |
 | 정다해 | https://blog.naver.com/english_daram_g | Web Developer | 서울 | |
-| Joo Namjeong | | Backend Developer | Seoul || 
+| 정유진 | https://cargocollective.com/yujinchung | Prdouct Marketing Manager, Growth | 서울 |  [![](icons/facebook-icon.png)](https://www.facebook.com/chung.yujin) [![](icons/twitter-icon.png)](https://twitter.com/socialtechnica) [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/chungyujin/)|
+| 주남정 | | Backend Developer | Seoul || 
 
 
 ## ㅊ
