@@ -18,8 +18,7 @@
 
 | Name | Blog | Description | Location | Social |
 |---|---|---|---|---|
-| 김수정 | https://github.com/kimmou92 | programming course product manager, AngelHack Seoul ambassador | 서울 | [![](icons/facebook-icon.png)](https://www.facebook.com/kimmou92?ref=bookmarks) [![](icons/email-icon.png)](soojung.sue@gmail.com) 
-[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/soojung-sue/)
+
 
 
 ## ㄴ
@@ -54,7 +53,6 @@
 
 | Name | Blog | Description | Location | Social |
 |---|---|---|---|---|
-| 신하늬 | https://github.com/gksmldia | Web Programmer, Growth Engineer | 서울 | [![](icons/facebook-icon.png)](https://www.facebook.com/hanui.sin) [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/dodol-123456/)| [![](icons/email-icon.png)](gmail@gmail.com) |
 | 신하영 | https://edustella.github.io/ | researcher, feminist, supporter for women in tech | 서울 | [![](icons/facebook-icon.png)](https://www.facebook.com/stella.h.shin) [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/stella-hayoung-shin/)| [![](icons/email-icon.png)](edustella@daum.net) |
 
 
@@ -75,6 +73,7 @@
 | 정희연 | https://yeun.github.io/ | UX/UI, [Open color](https://yeun.github.io/open-color/), [Open Arrow](https://yeun.github.io/open-arrow/) | 서울 | |
 | 진유림 | https://milooy.wordpress.com/ | Frontend, [9XD](http://9xd.github.io/)| 서울 | |
 | 정다해 | https://blog.naver.com/english_daram_g | Web Developer | 서울 | |
+| 지현정 | https://existingjeong.blogspot.com/ | C, C# | 부산 | |
 
 ## ㅊ
 
