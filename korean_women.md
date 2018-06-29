@@ -101,3 +101,5 @@
 
 | Name | Blog | Description | Location | Social |
 |---|---|---|---|---|
+| 홍유정 | https://youjungeee.github.io | 프론트엔드 개발자 | 서울 | |
+
