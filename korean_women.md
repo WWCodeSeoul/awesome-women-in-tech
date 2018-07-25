@@ -83,13 +83,11 @@
 | 진유림 | https://milooy.wordpress.com/ | Frontend, [9XD](http://9xd.github.io/)| 서울 | |
 | 정다해 | https://blog.naver.com/english_daram_g | Web Developer | 서울 | |
 | 조은량 | https://github.com/tadanmf/ | Web Programmer, Junior Developer | 서울 | [![](icons/facebook-icon.png)](https://www.facebook.com/tadanmf) [![](icons/email-icon.png)](tadanmf@gmail.com) [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/tamiii/) |
-| 조혜선 | Community Manager/translator, various projects | | 서울 |  [![](icons/facebook-icon.png)](https://www.facebook.com/babygirl13xx) [![](icons/linkedin-icon.png)](https://kr.linkedin.com/in/veronique-cho-a7216857)|
+| 조혜선 | Community Manager/translator, various projects | 서울 |  [![](icons/facebook-icon.png)](https://www.facebook.com/babygirl13xx) [![](icons/linkedin-icon.png)](https://kr.linkedin.com/in/veronique-cho-a7216857)|
 | 지현정 | https://existingjeong.blogspot.com/ | C, C# | 부산 | |
-| 정성윤 |  | Data scientist | 서울 | [![](icons/email-icon.png)](seongyoon.me@gmail.com) |
+| 정성윤|  | Data scientist | 서울 | [![](icons/email-icon.png)](seongyoon.me@gmail.com) |
 | 정유진 | https://cargocollective.com/yujinchung | Prdouct Marketing Manager, Growth | 서울 |  [![](icons/facebook-icon.png)](https://www.facebook.com/chung.yujin) [![](icons/twitter-icon.png)](https://twitter.com/socialtechnica) [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/chungyujin/)|
-| 주남정 | | Bakend Developer | 서울 ||
-| 정지은 |  | Data scientist | 서울 | NLP [![](icons/email-icon.png)](bluence@gmail.com) |
-
+| 주남정 | | Backend Developer | 서울 ||
 
 ## ㅊ
 
@@ -97,7 +95,6 @@
 |---|---|---|---|---|
 | 채수정 | https://github.com/SooJungChae | Frontend Web, Spring, C#, UX/UI design | 성남 | [![](icons/facebook-icon.png)](https://www.facebook.com/soojung.chae.3) [![](icons/naver-blog-icon.png)](https://blog.naver.com/naan_ace)|
 | 최지영 | https://github.com/jiyoung-choi | Data Analyst, Growth Hacker | 서울 |[![](icons/email-icon.png)](jiyoung031@gmail.com)|
-
 ## ㅍ
 
 | Name | Blog | Description | Location | Social |
