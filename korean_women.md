@@ -22,6 +22,7 @@
 | 김수정 | https://github.com/kimmou92 | programming course product manager, AngelHack Seoul ambassador | 서울 | [![](icons/facebook-icon.png)](https://www.facebook.com/kimmou92?ref=bookmarks) [![](icons/email-icon.png)](soojung.sue@gmail.com) [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/soojung-sue/) |
 | 김미성 | https://github.com/mixsung | |  | |
 | 김신제 || web developer | 서울 |[![](icons/facebook-icon.png)](https://www.facebook.com/shinjehere) [![](icons/email-icon.png)](shinjehere@gmail.com) |
+| 김윤경 | http://github.com/Yoonkimove | Data Analyst, Illustrator | 서울 | [![](icons/email-icon.png)](yoonkimove@gmail.com)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/yoonkimove) |
 
 
 
