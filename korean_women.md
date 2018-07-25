@@ -87,13 +87,16 @@
 | 지현정 | https://existingjeong.blogspot.com/ | C, C# | 부산 | |
 | 정성윤 |  | Data scientist | 서울 | [![](icons/email-icon.png)](seongyoon.me@gmail.com) |
 | 정유진 | https://cargocollective.com/yujinchung | Prdouct Marketing Manager, Growth | 서울 |  [![](icons/facebook-icon.png)](https://www.facebook.com/chung.yujin) [![](icons/twitter-icon.png)](https://twitter.com/socialtechnica) [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/chungyujin/)|
-| 주남정 | | Backend Developer | 서울 ||
+| 주남정 | | Bakend Developer | 서울 ||
 | 정지은 |  | Data scientist | 서울 | NLP [![](icons/email-icon.png)](bluence@gmail.com) |
+
+
 ## ㅊ
 
 | Name | Blog | Description | Location | Social |
 |---|---|---|---|---|
 | 채수정 | https://github.com/SooJungChae | Frontend Web, Spring, C#, UX/UI design | 성남 | [![](icons/facebook-icon.png)](https://www.facebook.com/soojung.chae.3) [![](icons/naver-blog-icon.png)](https://blog.naver.com/naan_ace)|
+| 최지영 | https://github.com/jiyoung-choi | Data Analyst, Growth Hacker | 서울 |[![](icons/email-icon.png)](jiyoung031@gmail.com)|
 
 ## ㅍ
 
