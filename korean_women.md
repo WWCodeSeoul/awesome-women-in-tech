@@ -73,8 +73,8 @@
 | 이효은 | https://brunch.co.kr/@edutech |Insturctional Designer, Community/Contents Manager / Connect Foundation | 성남 |[![](icons/facebook-icon.png)](https://www.facebook.com/annah.lee1) [![](icons/github-icon.png)](https://github.io/hyoeunlee) [![](icons/email-icon.png)](annalee102@gmail.com) |
 | 오다혜 | https://blog.ohda.fun | Frontend Web, UI, UX (+ Interior design and Ashtanga yoga) | 서울 |[![](icons/facebook-icon.png)](https://www.facebook.com/ohdayoda) [![](icons/github-icon.png)](https://github.io/yogicat) [![](icons/email-icon.png)](dahe.oh@gmail.com) |
 
- 
- 
+
+
 ## ㅈ
 
 | Name | Blog | Description | Location | Social |
@@ -87,14 +87,14 @@
 | 지현정 | https://existingjeong.blogspot.com/ | C, C# | 부산 | |
 | 정성윤|  | Data scientist | 서울 | [![](icons/email-icon.png)](seongyoon.me@gmail.com) |
 | 정유진 | https://cargocollective.com/yujinchung | Prdouct Marketing Manager, Growth | 서울 |  [![](icons/facebook-icon.png)](https://www.facebook.com/chung.yujin) [![](icons/twitter-icon.png)](https://twitter.com/socialtechnica) [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/chungyujin/)|
-| 주남정 | | Backend Developer | 서울 || 
+| 주남정 | | Backend Developer | 서울 ||
 
 ## ㅊ
 
 | Name | Blog | Description | Location | Social |
 |---|---|---|---|---|
 | 채수정 | https://github.com/SooJungChae | Frontend Web, Spring, C#, UX/UI design | 성남 | [![](icons/facebook-icon.png)](https://www.facebook.com/soojung.chae.3) [![](icons/naver-blog-icon.png)](https://blog.naver.com/naan_ace)|
-
+| 최지영 | https://github.com/jiyoung-choi | Data Analyst, Growth Hacker | 서울 |[![](icons/email-icon.png)](jiyoung031@gmail.com)|
 ## ㅍ
 
 | Name | Blog | Description | Location | Social |
@@ -105,4 +105,3 @@
 | Name | Blog | Description | Location | Social |
 |---|---|---|---|---|
 | 홍유정 | https://youjungeee.github.io | 프론트엔드 개발자 | 서울 | |
-
