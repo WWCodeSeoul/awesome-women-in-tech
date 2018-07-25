@@ -88,7 +88,7 @@
 | 정성윤|  | Data scientist | 서울 | [![](icons/email-icon.png)](seongyoon.me@gmail.com) |
 | 정유진 | https://cargocollective.com/yujinchung | Prdouct Marketing Manager, Growth | 서울 |  [![](icons/facebook-icon.png)](https://www.facebook.com/chung.yujin) [![](icons/twitter-icon.png)](https://twitter.com/socialtechnica) [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/chungyujin/)|
 | 주남정 | | Backend Developer | 서울 ||
-
+| 정지은 |  | Data scientist | 서울 | [![](icons/email-icon.png)](bluence@gmail.com) |
 ## ㅊ
 
 | Name | Blog | Description | Location | Social |
