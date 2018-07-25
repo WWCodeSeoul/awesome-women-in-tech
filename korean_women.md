@@ -73,8 +73,8 @@
 | 이효은 | https://brunch.co.kr/@edutech |Insturctional Designer, Community/Contents Manager / Connect Foundation | 성남 |[![](icons/facebook-icon.png)](https://www.facebook.com/annah.lee1) [![](icons/github-icon.png)](https://github.io/hyoeunlee) [![](icons/email-icon.png)](annalee102@gmail.com) |
 | 오다혜 | https://blog.ohda.fun | Frontend Web, UI, UX (+ Interior design and Ashtanga yoga) | 서울 |[![](icons/facebook-icon.png)](https://www.facebook.com/ohdayoda) [![](icons/github-icon.png)](https://github.io/yogicat) [![](icons/email-icon.png)](dahe.oh@gmail.com) |
 
- 
- 
+
+
 ## ㅈ
 
 | Name | Blog | Description | Location | Social |
@@ -83,12 +83,12 @@
 | 진유림 | https://milooy.wordpress.com/ | Frontend, [9XD](http://9xd.github.io/)| 서울 | |
 | 정다해 | https://blog.naver.com/english_daram_g | Web Developer | 서울 | |
 | 조은량 | https://github.com/tadanmf/ | Web Programmer, Junior Developer | 서울 | [![](icons/facebook-icon.png)](https://www.facebook.com/tadanmf) [![](icons/email-icon.png)](tadanmf@gmail.com) [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/tamiii/) |
-| 조혜선 | Community Manager/translator, various projects | 서울 |  [![](icons/facebook-icon.png)](https://www.facebook.com/babygirl13xx) [![](icons/linkedin-icon.png)](https://kr.linkedin.com/in/veronique-cho-a7216857)|
+| 조혜선 | Community Manager/translator, various projects | | 서울 |  [![](icons/facebook-icon.png)](https://www.facebook.com/babygirl13xx) [![](icons/linkedin-icon.png)](https://kr.linkedin.com/in/veronique-cho-a7216857)|
 | 지현정 | https://existingjeong.blogspot.com/ | C, C# | 부산 | |
-| 정성윤|  | Data scientist | 서울 | [![](icons/email-icon.png)](seongyoon.me@gmail.com) |
+| 정성윤 |  | Data scientist | 서울 | [![](icons/email-icon.png)](seongyoon.me@gmail.com) |
 | 정유진 | https://cargocollective.com/yujinchung | Prdouct Marketing Manager, Growth | 서울 |  [![](icons/facebook-icon.png)](https://www.facebook.com/chung.yujin) [![](icons/twitter-icon.png)](https://twitter.com/socialtechnica) [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/chungyujin/)|
-| 주남정 | | Backend Developer | 서울 || 
-
+| 주남정 | | Backend Developer | 서울 ||
+| 정지은 |  | Data scientist | 서울 | NLP [![](icons/email-icon.png)](bluence@gmail.com) |
 ## ㅊ
 
 | Name | Blog | Description | Location | Social |
@@ -105,4 +105,3 @@
 | Name | Blog | Description | Location | Social |
 |---|---|---|---|---|
 | 홍유정 | https://youjungeee.github.io | 프론트엔드 개발자 | 서울 | |
-
