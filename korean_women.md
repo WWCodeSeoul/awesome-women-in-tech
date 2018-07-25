@@ -73,6 +73,9 @@
 | 이고은 | http://goeunlee.tistory.com/ | UX design, Frontend web | 성남 | [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/goeun-lee-56a523159/) [![](icons/email-icon.png)](hi.goeun.lee@gmail.com) |
 | 이효은 | https://brunch.co.kr/@edutech |Insturctional Designer, Community/Contents Manager / Connect Foundation | 성남 |[![](icons/facebook-icon.png)](https://www.facebook.com/annah.lee1) [![](icons/github-icon.png)](https://github.io/hyoeunlee) [![](icons/email-icon.png)](annalee102@gmail.com) |
 | 오다혜 | https://blog.ohda.fun | Frontend Web, UI, UX (+ Interior design and Ashtanga yoga) | 서울 |[![](icons/facebook-icon.png)](https://www.facebook.com/ohdayoda) [![](icons/github-icon.png)](https://github.io/yogicat) [![](icons/email-icon.png)](dahe.oh@gmail.com) |
+| 이다혜 | https://github.com/Dalbongjooin | Human Movement, 데잇걸스 2기, Basketball, Dog  | 서울 | [![](icons/facebook-icon.png)](https://www.facebook.com/profile.php?id=100001532013828) |
+
+
 
 
 
