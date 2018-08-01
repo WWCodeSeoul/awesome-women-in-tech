@@ -19,6 +19,25 @@
 
 | Name | Website | Description | Location | Social |
 |---|---|---|---|---|
+| Black Girls Code | http://www.blackgirlscode.com/ |흑인 여성들도 코딩을 할 수 있다는 것을 세상에 증명하기 위해 만들어진 단체입니다.|  |  |
+| Django Girls | https://djangogirls.org/ | 여성들이 프로그래밍 워크샵을 개최할 수 있도록 권리를 부여하고 돕는 비영리단체이자 커뮤니티입니다. |  |  |
+| Lesbians Who Tech | https://lesbianswhotech.org/ | 기술 분야 혹은 그 주변의 퀴어 여성들을 위한 커뮤니티입니다. |  |  |
+| Scala Bridge | http://www.scalabridge.org/ | 여성을 위한 기초 프로그래밍 수업을 제공하고, 모두를 위한 Scala 커뮤니티를 만듭니다. |  |  |
+| She++ | https://sheplusplus.org | 기술 관련 직종을 따라다니는 부정적인 선입견을 극복하고, 기술 분야에서 주변부에 있는 집단들을 돕기 위한 비영리단체입니다. |  |  |
+| Techtonica | https://techtonica.org/ |  |  |  |
+| Tech Ladies | https://www.hiretechladies.com/ |  |  |  |
+| TLA Women In Tech | http://tlawomenintech.org/ |  |  |  |
+| Rails Girls | http://railsgirls.com/ |  |  |  |
+| PHP Women | http://phpwomen.org |  |  |  |
+| PyLadies | http://www.pyladies.com/ |  |  |  |
+| Girls Develop It | https://www.girldevelopit.com/ |  |  |  |
+| Vue Vixens | https://vuevixens.org |  |  |  |
+| Women Techmakers | https://www.womentechmakers.com/ |  |  |  |
+| Women Who Code | https://www.womenwhocode.com/ |  |  |  |
+| Women Who Tech | https://www.womenwhotech.com/ |  |  |  |
+| Yes We Tech | http://yeswetech.org/ |  |  |  |
+
+
 
 - [Black Girls Code](http://www.blackgirlscode.com/) - Organization devoted to showing the world that black girls can code.
 
