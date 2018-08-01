@@ -55,6 +55,7 @@
 |---|---|---|---|---|
 | 박정민 | https://thaiming.github.io/ | project director, traveler, creator, food lover, animal lover, nature lover, vipassana meditator | SEOUL |  [![](icons/facebook-icon.png)](https://www.facebook.com/worldming) |
 | 박소현 | https://pje1740.github.io/ | Information Design, game design, K-contents, Daitgirls2 | SEOUL |  |
+| 박예진 | https://github.com/vivi9814 | Frontend Web, C, Python | Ansan | [![](icons/facebook-icon.png)](https://www.facebook.com/profile.php?id=100027463219908) |
 
 ## ㅅ
 
