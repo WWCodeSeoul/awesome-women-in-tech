@@ -23,6 +23,7 @@
 | 김미성 | https://github.com/mixsung | |  | |
 | 김신제 || web developer | 서울 |[![](icons/facebook-icon.png)](https://www.facebook.com/shinjehere) [![](icons/email-icon.png)](shinjehere@gmail.com) |
 | 김윤경 | http://github.com/Yoonkimove | Data Analyst, Illustrator | 서울 | [![](icons/email-icon.png)](yoonkimove@gmail.com)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/yoonkyung-kim-575962166) |
+| 김해수 | http://github.com/haesookim | Information Visualization, Junior Developer, Designer, Artist | 서울 | [![](icons/email-icon.png)](haesoo1108@gmail.com)[![](icons/facebook-icon.png)](https://www.facebook.com/haesoosk) |
 
 
 
