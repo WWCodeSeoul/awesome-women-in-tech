@@ -30,7 +30,7 @@ const siteConfig = {
   //   baseUrl: '/test-site/',
 
   // Used for publishing and more
-  projectName: 'Awsome women in tech',
+  projectName: 'awesome-women-in-tech',
   organizationName: 'wwcodeseoul',
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
