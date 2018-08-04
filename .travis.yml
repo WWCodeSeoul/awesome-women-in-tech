@@ -2,13 +2,17 @@
 language: node_js
 node_js:
   - '8'
-branches:
-  only:
-    - master
 cache:
   yarn: true
 script:
-  - git config --global user.name "${GH_NAME}"
-  - git config --global user.email "${GH_EMAIL}"
-  - echo "machine github.com login ${GH_NAME} password ${GH_TOKEN}" > ~/.netrc
-  - cd website && yarn install && GIT_USER="${GH_NAME}" yarn run publish-gh-pages
+  - cd website
+  - yarn install
+  - node DataBuilder.js ../korean_women.md ../abroad_women.md
+  - yarn build
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GH_TOKEN
+  local_dir: website/build
+  on:
+    branch: master

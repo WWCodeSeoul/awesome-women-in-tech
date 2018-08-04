@@ -1,0 +1,116 @@
+.home-section {
+  display: flex;
+  padding: 40px;
+  height: 100vh;
+  box-sizing: border-box;
+  justify-content: center;
+
+  a {
+    text-decoration: none;
+    color: #333;
+  }
+
+  .column-one, .column-two, .blank-column {
+    flex: 1;
+    min-width: 380px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    > div {
+      width: 100%;
+    }
+  }
+
+  .column-one {
+    .logo-wrapper {
+      position: absolute;
+      top:0;
+      left: 0;
+      .logo {
+        font-weight: 700;
+        font-size: 1.4em;
+      }
+    }
+
+    .title-text-wrapper {
+      font-size: 3em;
+      font-family: serif;
+      font-weight: 700;
+      align-self: flex-start;
+      .title-b {
+        div {
+          display: inline-block;
+          height: 3rem;
+        }
+        .blank-left-box {
+          width: 0.4rem;
+          border-top: #333 4px solid;
+          border-left: #333 6px solid;
+          border-bottom: #333 4px solid;
+        }
+        .blank-underline-box {
+          width: 12rem;
+          margin: 0 4px;
+          border-bottom: #333 4px solid;
+        }
+        .blank-right-box {
+          width: 0.4rem;
+          border-top: #333 4px solid;
+          border-right: #333 6px solid;
+          border-bottom: #333 4px solid;
+        }
+      }
+    }
+
+    .description-wrapper {
+      .description-a {
+        margin: 1.5em 0;
+      }
+      .description-b {
+        font-weight: 700;
+        span::after {
+          content: '';
+          width: 1em;
+          height: 4px;
+          background-color: #2a4d40;
+          position: absolute;
+          margin-left: -1em;
+        }
+      }
+    }
+  }
+  
+  
+
+  .column-two {
+    height: 100%;
+    flex: 2;
+    justify-content: flex-start;
+
+    .column-content-wrapper {
+      background-color: #2a4d40;
+      width: 50%;
+      height: 100%;
+      box-sizing: border-box;
+      padding: 40px 20px;
+      display: flex;
+      align-items: flex-end;
+      justify-content: flex-end;
+      flex-direction: column;
+      color: white;
+      font-weight: 700;
+      text-align: right;
+      font-size: 1.4rem;
+
+      div {
+        width: 100%;
+      }
+
+      .title-text {
+        margin-bottom: 1rem;
+      }
+    
+    }
+  }
+}

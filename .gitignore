@@ -1,12 +1,27 @@
 .DS_Store
 
-node_modules
+# See https://help.github.com/ignore-files/ for more about ignoring files.
 
-lib/core/metadata.js
-lib/core/MetadataBlog.js
-
-website/translated_docs
-website/build/
-website/yarn.lock
+# dependencies
+/node_modules
 website/node_modules
-website/i18n/*
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# exclude built css file in src
+website/src/components/**/*.css
