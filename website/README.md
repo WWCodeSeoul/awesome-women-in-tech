@@ -58,6 +58,6 @@ $ yarn start
 (Run command in website directory)
 ```
 
-Open your browser and move to `http://localhost:8080`
+Open your browser and move to `http://localhost:3000/awsome-women-in-tech/`
 
 Good! Now, you are ready to contribute!
