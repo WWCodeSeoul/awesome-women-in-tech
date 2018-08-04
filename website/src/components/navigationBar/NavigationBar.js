@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './NavigationBar.css';
 // import './NavigationBar.css';
 import { Link } from "react-router-dom";
+const baseUrl = '/awsome-women-in-tech'
 
 class NavigationBar extends Component {
   render() {
@@ -9,17 +10,17 @@ class NavigationBar extends Component {
       <nav className="Navigation-bar">
         <ul className="navbar-item-wrapper">
           <li className="navbar-item">
-            <Link to="/">
+            <Link to={`${baseUrl}/`}>
               WWCODESEOUL
             </Link>
           </li>
           <li className="navbar-item">
-            <Link to="/project">
+            <Link to={`${baseUrl}/project`}>
               P.WWCODESEOUL
             </Link>
           </li>
           <li className="navbar-item">
-            <Link to="/about">
+            <Link to={`${baseUrl}/about`}>
               ABOUT
             </Link>
           </li>
