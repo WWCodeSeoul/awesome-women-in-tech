@@ -2,7 +2,10 @@ const parser = require('./MarkdownTableToJson');
 const OUTPUT_PATH = './src/resource';
 
 for (let index=2; process.argv.length; index++) {
-  if (process.argv[index] || !parser(process.argv[index], OUTPUT_PATH)){
+  if (process.argv[index]) {
+    continue;
+  }
+  if (!parser(process.argv[index], OUTPUT_PATH)){
     process.exit(1);
   }
 }
