@@ -5,10 +5,7 @@ node_js:
 cache:
   yarn: true
 script:
-  - cd website
-  - yarn install
-  - node DataBuilder.js ../korean_women.md ../abroad_women.md
-  - yarn build
+  - cd website && yarn install && node DataBuilder.js ../korean_women.md ../abroad_women.md && yarn build
 deploy:
   provider: pages
   skip_cleanup: true
