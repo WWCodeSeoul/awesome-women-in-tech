@@ -23,7 +23,6 @@ const FILENAME_REGEX = /\/?([\w, ,-]+\.(?:markdown|md))$/i;
  */
 const parser = (filePath, outPath = OUTPUT_PATH) => {
   const checkFile = FILENAME_REGEX.exec(filePath);
-  console.log(checkFile);
   
   // Could not find markdown file
   if (!checkFile) {
