@@ -1,0 +1,23 @@
+.Navigation-bar {
+  position: fixed;
+  width: auto;
+  height: 100%;
+  right: 0;
+  top: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+  align-items: center;
+  z-index: 1;
+
+  .navbar-item {
+    list-style: none;
+    text-align: right;
+    padding: .4rem 0;
+    a {
+      text-decoration: none;
+      color: #333;
+      font-weight: 700;
+    }
+  }
+}
