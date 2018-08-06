@@ -32,10 +32,10 @@
 | PyLadies | http://www.pyladies.com/ | 더 많은 여성들이 Python 오픈소스 커뮤니티에서 활발한 참여자와 리더가 되도록 돕는 데에 집중하는 전세계적인 멘토 그룹입니다. |  |  |
 | Girls Develop It | https://www.girldevelopit.com/ | 웹과 SW 개발에 관심 있는 여성들을 위한 적합하고, 비판받을 염려가 없는 기회를 제공하는 비영리 기관입니다. |  |  |
 | Vue Vixens | https://vuevixens.org | 웹사이트와 모바일 앱을 만들기 위해 Vue.js를 배우고 싶어하는 매력적인 여성들입니다. |  |  |
-| Women Techmakers | https://www.womentechmakers.com/ |  |  |  |
-| Women Who Code | https://www.womenwhocode.com/ |  |  |  |
-| Women Who Tech | https://www.womenwhotech.com/ |  |  |  |
-| Yes We Tech | http://yeswetech.org/ |  |  |  |
+| Women Techmakers | https://www.womentechmakers.com/ | 가시성, 커뮤니티, 그리고 기술분야의 여성을 위한 자원을 제공하는 구글의 프로그램 입니다. |  |  |  |
+| Women Who Code | https://www.womenwhocode.com/ | 구인 게시판, 컨퍼런스 비용 지원 및 기타 회원 혜택을 통해 여성이 기술 분야에서 탁월한 능력을 발휘할 수 있도록 지원하는 글로벌 커뮤니티 입니다. |  |  |
+| Women Who Tech | https://www.womenwhotech.com/ | 재능과 대중적 인지도를 가진 여성들을 모아 세상을 바꾸기 위한 새로운 영역을 개척하고, 고무적 변화를 불러일으키고자 하는 비영리기관 입니다. |  |  |
+| Yes We Tech | http://yeswetech.org/ | 평등주의자들와 기술에 흥미를 가진 여성의 자랑스러운 문화를 위해 일하는 페미니스트 커뮤니티 입니다. |  |  |
 
 
 
