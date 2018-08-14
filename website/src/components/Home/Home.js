@@ -1,4 +1,7 @@
 import React, { Component } from 'react';
+import { ImageSlider } from './ImageSlider/ImageSlider'
+import { Footer } from '../Footer/Footer';
+
 import './Home.css';
 
 class Home extends Component {
@@ -7,8 +10,12 @@ class Home extends Component {
       <section className="home-section">
         <div className="column-one">
           <div className="logo-wrapper">
-            <a className="logo" href="https://wwcodeseoul.github.com/awsome-women-in-tech">
-              WOMEN<br/>WHO<br/>CODE
+            <a className="logo" 
+               href="https://wwcodeseoul.github.com/awsome-women-in-tech">
+               AWSOME<br/>
+               WOMEN<br/>
+               IN<br/>
+               TECH<br/>
             </a>
           </div>
           <div className="title-wrapper">
@@ -39,14 +46,18 @@ class Home extends Component {
         </div>
         <div className="column-two">
           <div className="column-content-wrapper">
+            <ImageSlider></ImageSlider>
             <div className="title-text">
               WOMEN<br/>WHO<br/>CODE
             </div>
-            <div class="cohort-name">
+            <div className="cohort-name">
               @SEOUL<br/>
               SOUTH KOREA
             </div>
           </div>
+        </div>
+        <div className="blank-column">
+          <Footer></Footer>
         </div>
       </section>
     );

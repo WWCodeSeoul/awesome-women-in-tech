@@ -1,10 +1,14 @@
 import React, { Component } from 'react';
-import { BrowserRouter as Router, Route } from "react-router-dom";
+import { BrowserRouter as Router } from "react-router-dom";
+import { AnimatedRoute } from 'react-router-transition';
 
 import { NavigationBar } from './navigationBar/NavigationBar'
 import { Home } from './Home/Home';
 import { Project } from './Project/Project';
 import { About } from './About/About';
+
+import './Reset.css'
+import './App.css'
 
 const baseUrl = '/awsome-women-in-tech'
 const routes = [
@@ -27,11 +31,17 @@ class App extends Component {
   render() {
     return (
       <Router>
-        <div>
+        <div className="App">
           <NavigationBar></NavigationBar>
-            <div className="wrapper">
+            <div className="ContentWrapper">
               {routes.map((route, index) => (
-                <Route
+                <AnimatedRoute
+                  atEnter={{ offset: -100 }}
+                  atLeave={{ offset: -100 }}
+                  atActive={{ offset: 0 }}
+                  mapStyles={(styles) => ({
+                    transform: `translateY(${styles.offset}%)`,
+                  })}
                   key={index}
                   path={route.path}
                   exact={route.exact}

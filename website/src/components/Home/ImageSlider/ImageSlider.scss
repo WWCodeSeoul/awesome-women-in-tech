@@ -1,0 +1,42 @@
+.slick-slider {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  
+  .slick-list, .slick-track, .slick-track div{
+    width: 100%;
+    height: 100%;  
+  }
+
+  .image-container {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(11, 55, 63, 0.8);
+    background-blend-mode: darken;
+    background-size: cover;
+    background-position-x: 0%;
+    background-position-y: center;
+    animation: sliding 10s linear infinite .5s;
+    
+    &.image-a {
+      background-image: url('../../../assets/img/main_picture_01.jpg')
+    }
+  
+    &.image-b {
+      background-image: url('../../../assets/img/main_picture_02.jpg')
+    }
+
+    
+  }
+}
+
+@keyframes sliding {
+  0% {
+    background-position-x: 0%;
+  }
+  100% {
+    background-position-x: 100%;
+  }
+}

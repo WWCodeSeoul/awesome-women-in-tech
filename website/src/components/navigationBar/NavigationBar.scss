@@ -1,9 +1,10 @@
 .Navigation-bar {
-  position: fixed;
+  position: absolute;
   width: auto;
   height: 100%;
-  right: 0;
+  right: 60px;
   top: 0;
+  right: 60px;
   display: flex;
   flex-direction: row;
   justify-content: right;
