@@ -17,118 +17,118 @@ $twitter-icon: url('../../../assets/img/twitter-icon.png');
   height: 100%;
   padding: 0 10px;
   justify-content: flex-end;
+}
 
-  .profile-wrapper {
-    width: 200px;
-    height: 230px;
-    margin-right: 30px;
-    margin-bottom: 30px;
+.profile-wrapper {
+  width: 200px;
+  height: 230px;
+  margin-right: 30px;
+  margin-bottom: 30px;
+  box-sizing: border-box;
+  background-color: #fff;
+  border-radius: 4px;
+  border: 1px solid #f8f8f8;
+  box-shadow: 0 2px 20px 0 rgba(0,0,0,0.05);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 36px;
+  padding-bottom: 24px;
+  position: relative;
+  cursor: pointer;
+
+  .profile-description {
     box-sizing: border-box;
-    background-color: #fff;
-    border-radius: 4px;
-    border: 1px solid #f8f8f8;
-    box-shadow: 0 2px 20px 0 rgba(0,0,0,0.05);
+    background-color: #F4F6F6;
     display: flex;
-    flex-direction: column;
+    justify-content: center;
     align-items: center;
-    padding-top: 36px;
-    padding-bottom: 24px;
+    width: 148px;
+    height: 96px;
+    text-align: center;
     position: relative;
+    padding: 10px;
 
-    .profile-description {
+    &:before, &:after {
+      content: '';
+      width: 10px;
+      height: 100%;
+      position: absolute;
       box-sizing: border-box;
-      background-color: #F4F6F6;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      width: 148px;
-      height: 96px;
-      text-align: center;
-      position: relative;
-      padding: 10px;
-
-      &:before, &:after {
-        content: '';
-        width: 10px;
-        height: 100%;
-        position: absolute;
-        box-sizing: border-box;
-        border-top: 4px #33777A solid;
-        border-bottom: 4px #33777A solid;
-      }
-
-      &:before {
-        left: 0;
-        border-left: 4px #33777A solid;
-      }
-
-      &:after {
-        right: 0;
-        border-right: 4px #33777A solid;
-      }
+      border-top: 4px #33777A solid;
+      border-bottom: 4px #33777A solid;
     }
 
-    .profile-divider {
-      width: 1.5em;
-      height: 1px;
-      margin-top: 22px;
-      background-color: #E0E0E0;
+    &:before {
+      left: 0;
+      border-left: 4px #33777A solid;
     }
 
-    .profile-name {
-      padding: 10px 0;
-      font-weight: bold;
-      letter-spacing: .1em;
+    &:after {
+      right: 0;
+      border-right: 4px #33777A solid;
     }
+  }
 
-    .profile-social {
-      display: flex;
-      box-sizing: border-box;
-      margin-left: -4px;
+  .profile-divider {
+    width: 1.5em;
+    height: 1px;
+    margin-top: 22px;
+    background-color: #E0E0E0;
+  }
 
-      a {
-        display: inline-block;
-        width: 18px;
-        height: 18px;
-        background-size: cover;
-        margin-left: 4px;
-        border-radius: 100%;
-      }
-      
-      .email {
-        background-image: $email-icon;
-      }
-      .facebook {
-        background-image: $facebook-icon;
-      }
-      .github {
-        background-image: $github-icon;
-      }
-      .google-plus {
-        background-image: $google-plus-icon;
-      }
-      .home {
-        background-image: $home-icon;
-      }
-      .linkedin {
-        background-image: $linkedin-icon;
-      }
-      .naver-blog {
-        background-image: $naver-blog-icon;
-      }
-      .naver-cafe {
-        background-image: $naver-cafe-icon;
-      }
-      .rss {
-        background-image: $rss-icon;
-      }
-      .slideshare {
-        background-image: $slideshare-icon;
-      }
-      .twitter {
-        background-image: $twitter-icon;
-      }
+  .profile-name {
+    padding: 10px 0;
+    font-weight: bold;
+    letter-spacing: .1em;
+  }
+
+  .profile-social {
+    display: flex;
+    box-sizing: border-box;
+    margin-left: -4px;
+
+    a {
+      display: inline-block;
+      width: 18px;
+      height: 18px;
+      background-size: cover;
+      margin-left: 4px;
+      border-radius: 100%;
     }
-
+    
+    .email {
+      background-image: $email-icon;
+    }
+    .facebook {
+      background-image: $facebook-icon;
+    }
+    .github {
+      background-image: $github-icon;
+    }
+    .google-plus {
+      background-image: $google-plus-icon;
+    }
+    .home {
+      background-image: $home-icon;
+    }
+    .linkedin {
+      background-image: $linkedin-icon;
+    }
+    .naver-blog {
+      background-image: $naver-blog-icon;
+    }
+    .naver-cafe {
+      background-image: $naver-cafe-icon;
+    }
+    .rss {
+      background-image: $rss-icon;
+    }
+    .slideshare {
+      background-image: $slideshare-icon;
+    }
+    .twitter {
+      background-image: $twitter-icon;
+    }
   }
 }

@@ -1,4 +1,4 @@
-# awsome-women-in-tech web
+# awesome-women-in-tech web
 
 ## How-to-contribute
 
@@ -58,6 +58,6 @@ $ yarn start
 (Run command in website directory)
 ```
 
-Open your browser and move to `http://localhost:3000/awsome-women-in-tech/`
+Open your browser and move to `http://localhost:3000/awesome-women-in-tech/`
 
 Good! Now, you are ready to contribute!

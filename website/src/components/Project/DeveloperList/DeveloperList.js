@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import {getProfileData} from './ProfileDataProcessor'
+import { getProfileData } from './ProfileDataProcessor'
 import './DeveloperList.css';
 
 const profileData = getProfileData();
@@ -11,7 +11,7 @@ class DeveloperList extends Component {
         {
           profileData.map((data, index) => {
             return (
-              <div className="profile-wrapper" key={index}>
+              <div className="profile-wrapper" key={index} onClick={()=>{this.props.setSelectedInfo(data)}}>
                 <div className="profile-description" dangerouslySetInnerHTML={{__html: data.Description}}></div>
                 <div className="profile-divider"></div>
                 <div className="profile-name">{data.Name}</div>

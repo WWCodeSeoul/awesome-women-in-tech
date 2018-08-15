@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './NavigationBar.css';
 
 import { Link } from "react-router-dom";
-const baseUrl = '/awsome-women-in-tech'
+const baseUrl = '/awesome-women-in-tech'
 
 class NavigationBar extends Component {
   render() {

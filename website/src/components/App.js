@@ -8,9 +8,10 @@ import { Project } from './Project/Project';
 // import { About } from './About/About';
 
 import './Reset.css'
+import './Font.css'
 import './App.css'
 
-const baseUrl = '/awsome-women-in-tech'
+const baseUrl = '/awesome-women-in-tech'
 const routes = [
   {
     path: `${baseUrl}/`,
@@ -34,8 +35,8 @@ class App extends Component {
         <div className="App">
           <div className="logo-wrapper">
             <a className="logo" 
-               href="https://wwcodeseoul.github.com/awsome-women-in-tech">
-               AWSOME<br/>
+               href="https://wwcodeseoul.github.com/awesome-women-in-tech">
+               AWESOME<br/>
                WOMEN<br/>
                IN<br/>
                TECH<br/>
