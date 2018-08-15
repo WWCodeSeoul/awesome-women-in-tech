@@ -1,7 +1,6 @@
 .Navigation-bar {
   position: absolute;
   width: auto;
-  height: 100%;
   right: 60px;
   top: 0;
   right: 60px;
@@ -10,6 +9,10 @@
   justify-content: right;
   align-items: center;
   z-index: 1;
+  transition: none;
+  min-height: 700px;
+  height: 100vh;
+  max-height: 826px;
 
   .navbar-item {
     list-style: none;

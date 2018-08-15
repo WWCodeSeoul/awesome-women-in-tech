@@ -1,7 +1,6 @@
 .home-section {
   display: flex;
   min-width: 1280px;
-  max-width: 1400px;
   width: 100%;
   min-height: 700px;
   height: 100vh;
@@ -11,6 +10,7 @@
   margin: 0 auto;
   overflow: hidden;
   padding: 0;
+  padding: 0 60px;
 
   a {
     text-decoration: none;
@@ -37,21 +37,9 @@
     justify-self: flex-start;
     color: #102223;
 
-    .logo-wrapper {
-      top:0;
-      left: 0;
-      position: absolute;
-      top: 80px;
-
-      .logo {
-        font-weight: 700;
-        font-size: 1.2em;
-      }
-    }
-
     .title-text-wrapper {
       font-size: 3em;
-      font-family: serif;
+      font-family: 'Nanum Myeongjo', serif;
       font-weight: 700;
       justify-self: center;
 
@@ -142,6 +130,10 @@
         background-size: cover;
         background-position-x: center;
         background-position-y: center;
+
+        &.image-a {
+          background-image: url('../../assets/img/main_picture_01.jpg')
+        }
       }
 
       div {

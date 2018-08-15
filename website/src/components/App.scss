@@ -1,10 +1,39 @@
+body { 
+  // background-color: #F8F8F8
+}
+
 .App {
   box-sizing: border-box;
   width: 100%;
   min-width: 1280px;
-  max-width: 1400px;
-  height: 100%;
-  padding: 0 60px;
+  height: 100vh;
+  max-height: 826px;
   position: relative;
-  margin: 0 auto;
+  overflow: hidden;
+
+  .logo-wrapper {
+    top:80px;
+    left: 60px;
+    position: absolute;
+    color: #102223;
+
+    .logo {
+      font-weight: 700;
+      font-size: 1.2em;
+      text-decoration: none;
+      color: #333;
+      white-space: pre-wrap;
+    }
+  }
+
+  .ContentWrapper {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+
+  .ContentWrapper > div {
+    position: absolute;
+    width: 100%;
+  }
 }

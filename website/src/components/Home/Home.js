@@ -9,15 +9,6 @@ class Home extends Component {
     return (
       <section className="home-section">
         <div className="column-one">
-          <div className="logo-wrapper">
-            <a className="logo" 
-               href="https://wwcodeseoul.github.com/awsome-women-in-tech">
-               AWSOME<br/>
-               WOMEN<br/>
-               IN<br/>
-               TECH<br/>
-            </a>
-          </div>
           <div className="title-wrapper">
             <div className="title-text-wrapper">
               <div className="title-a">
