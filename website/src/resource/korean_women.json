@@ -1,0 +1,254 @@
+[
+  {
+    "indexChar": "ㄱ",
+    "body": [
+      {
+        "Name": "강한별",
+        "Blog": "https://dearcloud09.com/",
+        "Description": "Data Analyst, Python, Hipster",
+        "Location": "서울",
+        "Social": "[![](icons/facebook-icon.png)](https://www.facebook.com/dearcloud09) [![](icons/twitter-icon.png)](https://twitter.com/dearcloud09) [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/cloud09/)"
+      },
+      {
+        "Name": "김수정",
+        "Blog": "https://github.com/kimmou92",
+        "Description": "programming course product manager, AngelHack Seoul ambassador",
+        "Location": "서울",
+        "Social": "[![](icons/facebook-icon.png)](https://www.facebook.com/kimmou92?ref=bookmarks) [![](icons/email-icon.png)](soojung.sue@gmail.com) [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/soojung-sue/)"
+      },
+      {
+        "Name": "김미성",
+        "Blog": "https://github.com/mixsung",
+        "Description": "",
+        "Location": "",
+        "Social": ""
+      },
+      {
+        "Name": "김신제",
+        "Blog": "",
+        "Description": "web developer",
+        "Location": "서울",
+        "Social": "[![](icons/facebook-icon.png)](https://www.facebook.com/shinjehere) [![](icons/email-icon.png)](shinjehere@gmail.com)"
+      },
+      {
+        "Name": "김윤경",
+        "Blog": "http://github.com/Yoonkimove",
+        "Description": "Data Analyst, Illustrator",
+        "Location": "서울",
+        "Social": "[![](icons/email-icon.png)](yoonkimove@gmail.com)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/yoonkyung-kim-575962166)"
+      },
+      {
+        "Name": "김해수",
+        "Blog": "http://github.com/haesookim",
+        "Description": "Information Visualization, Junior Developer, Designer, Artist",
+        "Location": "서울",
+        "Social": "[![](icons/email-icon.png)](haesoo1108@gmail.com)[![](icons/facebook-icon.png)](https://www.facebook.com/haesoosk)"
+      }
+    ]
+  },
+  {
+    "indexChar": "ㅂ",
+    "body": [
+      {
+        "Name": "박정민",
+        "Blog": "https://thaiming.github.io/",
+        "Description": "project director, traveler, creator, food lover, animal lover, nature lover, vipassana meditator",
+        "Location": "SEOUL",
+        "Social": "[![](icons/facebook-icon.png)](https://www.facebook.com/worldming)"
+      },
+      {
+        "Name": "박소현",
+        "Blog": "https://pje1740.github.io/",
+        "Description": "Information Design, game design, K-contents, Daitgirls2",
+        "Location": "SEOUL",
+        "Social": ""
+      },
+      {
+        "Name": "박예진",
+        "Blog": "https://github.com/vivi9814",
+        "Description": "Frontend Web, C, Python",
+        "Location": "Ansan",
+        "Social": "[![](icons/facebook-icon.png)](https://www.facebook.com/profile.php?id=100027463219908)"
+      }
+    ]
+  },
+  {
+    "indexChar": "ㅅ",
+    "body": [
+      {
+        "Name": "신하영",
+        "Blog": "https://edustella.github.io/",
+        "Description": "researcher, feminist, supporter for women in tech",
+        "Location": "서울",
+        "Social": "[![](icons/facebook-icon.png)](https://www.facebook.com/stella.h.shin) [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/stella-hayoung-shin/)"
+      },
+      {
+        "Name": "송서영",
+        "Blog": "https://github.com/seoyeongsong",
+        "Description": "Data scientist, Dataitgirls_2",
+        "Location": "SEOUL",
+        "Social": "[![](icons/email-icon.png)](highhopes7@gmail.com)"
+      }
+    ]
+  },
+  {
+    "indexChar": "ㅇ",
+    "body": [
+      {
+        "Name": "이수진",
+        "Blog": "https://sujinlee.me/",
+        "Description": "Frontend Web, Python, Javascript, React, Music Information Retrieval",
+        "Location": "서울",
+        "Social": "[![](icons/facebook-icon.png)](https://www.facebook.com/sujinlee.me) [![](icons/twitter-icon.png)](https://twitter.com/sujinleeme) [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/leesujin/)"
+      },
+      {
+        "Name": "임예지",
+        "Blog": "https://yayyz.github.io/",
+        "Description": "Backend Web",
+        "Location": "성남",
+        "Social": ""
+      },
+      {
+        "Name": "이나라",
+        "Blog": "https://daisyleenr.github.io/",
+        "Description": "Web Programmer, Growth Engineer",
+        "Location": "서울",
+        "Social": "[![](icons/facebook-icon.png)](https://www.facebook.com/daisyleenr) [![](icons/github-icon.png)](https://github.io/daisyleenr) [![](icons/email-icon.png)](daisyleenr@gmail.com)"
+      },
+      {
+        "Name": "이고은",
+        "Blog": "http://goeunlee.tistory.com/",
+        "Description": "UX design, Frontend web",
+        "Location": "성남",
+        "Social": "[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/goeun-lee-56a523159/) [![](icons/email-icon.png)](hi.goeun.lee@gmail.com)"
+      },
+      {
+        "Name": "이효은",
+        "Blog": "https://brunch.co.kr/@edutech",
+        "Description": "Insturctional Designer, Community/Contents Manager / Connect Foundation",
+        "Location": "성남",
+        "Social": "[![](icons/facebook-icon.png)](https://www.facebook.com/annah.lee1) [![](icons/github-icon.png)](https://github.io/hyoeunlee) [![](icons/email-icon.png)](annalee102@gmail.com)"
+      },
+      {
+        "Name": "오다혜",
+        "Blog": "https://blog.ohda.fun",
+        "Description": "Frontend Web, UI, UX (+ Interior design and Ashtanga yoga)",
+        "Location": "서울",
+        "Social": "[![](icons/facebook-icon.png)](https://www.facebook.com/ohdayoda) [![](icons/github-icon.png)](https://github.io/yogicat) [![](icons/email-icon.png)](dahe.oh@gmail.com)"
+      },
+      {
+        "Name": "이다혜",
+        "Blog": "https://github.com/Dalbongjooin",
+        "Description": "Human Movement, 데잇걸스 2기, Basketball, Dog",
+        "Location": "서울",
+        "Social": "[![](icons/facebook-icon.png)](https://www.facebook.com/profile.php?id=100001532013828)"
+      }
+    ]
+  },
+  {
+    "indexChar": "ㅈ",
+    "body": [
+      {
+        "Name": "정희연",
+        "Blog": "https://yeun.github.io/",
+        "Description": "UX/UI, [Open color](https://yeun.github.io/open-color/), [Open Arrow](https://yeun.github.io/open-arrow/)",
+        "Location": "서울",
+        "Social": ""
+      },
+      {
+        "Name": "진유림",
+        "Blog": "https://milooy.wordpress.com/",
+        "Description": "Frontend, [9XD](http://9xd.github.io/)",
+        "Location": "서울",
+        "Social": ""
+      },
+      {
+        "Name": "정다해",
+        "Blog": "https://blog.naver.com/english_daram_g",
+        "Description": "Web Developer",
+        "Location": "서울",
+        "Social": ""
+      },
+      {
+        "Name": "조은량",
+        "Blog": "https://github.com/tadanmf/",
+        "Description": "Web Programmer, Junior Developer",
+        "Location": "서울",
+        "Social": "[![](icons/facebook-icon.png)](https://www.facebook.com/tadanmf) [![](icons/email-icon.png)](tadanmf@gmail.com) [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/tamiii/)"
+      },
+      {
+        "Name": "조혜선",
+        "Blog": "Community Manager/translator, various projects",
+        "Description": "서울",
+        "Location": "[![](icons/facebook-icon.png)](https://www.facebook.com/babygirl13xx) [![](icons/linkedin-icon.png)](https://kr.linkedin.com/in/veronique-cho-a7216857)",
+        "Social": ""
+      },
+      {
+        "Name": "지현정",
+        "Blog": "https://existingjeong.blogspot.com/",
+        "Description": "C, C#",
+        "Location": "부산",
+        "Social": ""
+      },
+      {
+        "Name": "정성윤",
+        "Blog": "",
+        "Description": "Data scientist",
+        "Location": "서울",
+        "Social": "[![](icons/email-icon.png)](seongyoon.me@gmail.com)"
+      },
+      {
+        "Name": "정유진",
+        "Blog": "https://cargocollective.com/yujinchung",
+        "Description": "Prdouct Marketing Manager, Growth",
+        "Location": "서울",
+        "Social": "[![](icons/facebook-icon.png)](https://www.facebook.com/chung.yujin) [![](icons/twitter-icon.png)](https://twitter.com/socialtechnica) [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/chungyujin/)"
+      },
+      {
+        "Name": "주남정",
+        "Blog": "",
+        "Description": "Backend Developer",
+        "Location": "서울",
+        "Social": ""
+      },
+      {
+        "Name": "정지은",
+        "Blog": "",
+        "Description": "Data scientist",
+        "Location": "서울",
+        "Social": "[![](icons/email-icon.png)](bluence@gmail.com)"
+      }
+    ]
+  },
+  {
+    "indexChar": "ㅊ",
+    "body": [
+      {
+        "Name": "채수정",
+        "Blog": "https://github.com/SooJungChae",
+        "Description": "Frontend Web, Spring, C#, UX/UI design",
+        "Location": "성남",
+        "Social": "[![](icons/facebook-icon.png)](https://www.facebook.com/soojung.chae.3) [![](icons/naver-blog-icon.png)](https://blog.naver.com/naan_ace)"
+      },
+      {
+        "Name": "최지영",
+        "Blog": "https://github.com/jiyoung-choi",
+        "Description": "Data Analyst, Growth Hacker",
+        "Location": "서울",
+        "Social": "[![](icons/email-icon.png)](jiyoung031@gmail.com)"
+      }
+    ]
+  },
+  {
+    "indexChar": "ㅎ",
+    "body": [
+      {
+        "Name": "홍유정",
+        "Blog": "https://youjungeee.github.io",
+        "Description": "프론트엔드 개발자",
+        "Location": "서울",
+        "Social": ""
+      }
+    ]
+  }
+]
