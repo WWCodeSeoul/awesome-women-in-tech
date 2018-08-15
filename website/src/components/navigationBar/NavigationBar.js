@@ -19,11 +19,11 @@ class NavigationBar extends Component {
               Project
             </Link>
           </li>
-          <li className="navbar-item">
+          {/* <li className="navbar-item">
             <Link to={`${baseUrl}/about`}>
               ABOUT
             </Link>
-          </li>
+          </li> */}
         </ul>
       </nav>
     );

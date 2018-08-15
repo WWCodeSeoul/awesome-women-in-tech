@@ -1,0 +1,67 @@
+.project-section {
+  display: flex;
+  min-width: 1280px;
+  width: 100%;
+  min-height: 700px;
+  height: 100vh;
+  max-height: 826px;
+  box-sizing: border-box;
+  justify-content: center;
+  margin: 0 auto;
+  overflow: hidden;
+  padding: 80px 200px 80px 60px;
+
+  .column-one, .column-two, .blank-column {
+    min-width: 380px;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+
+    > div {
+      width: 100%;
+    }
+  }
+
+  .column-one {
+    flex-wrap: wrap;
+    flex: 1;
+    justify-self: flex-start;
+    color: #102223;
+
+    .title-text-wrapper {
+      font-size: 3em;
+      font-family: serif;
+      font-weight: 700;
+      line-height: 1.2;
+      justify-self: center;
+    }
+
+    .description-wrapper {
+      padding-left: 10px;
+      box-sizing: border-box;
+
+      .description-a {
+        margin: 1.5em 0;
+        line-height: 1.4;
+      }
+    }
+  }
+
+  .column-two {
+    flex: 4 1 auto;
+    overflow-y: auto;
+  }
+
+  .blank-column {
+    flex: 1;
+  }
+
+  .Footer {
+    position: absolute;
+    bottom: 0;
+    right: 60px;
+  }
+}
