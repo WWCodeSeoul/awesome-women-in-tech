@@ -14,7 +14,7 @@ const path = require('path');
 
 const OUTPUT_PATH = './out';
 const TABLE_REGEX = /\s*## (.+)\n+(\|(?:(?:[^\r\n\|]*)\|)+\r?)\n\|(?:(?::?-+:?)\|)+\r?\n((?:\|(?:(?:[^\r\n\|]*)\|)+\r?\n)+)/gm;
-const FILENAME_REGEX = /\/?([\w, ,-]+\.(?:markdown|md))$/i;
+const FILENAME_REGEX = /\/?([\w, ,-]+)\.(?:markdown|md)$/i;
 
 /**
  * Parse table and write json file
@@ -40,11 +40,11 @@ const parser = (filePath, outPath = OUTPUT_PATH) => {
     const newTable = {};
     newTable.indexChar = table[1]; // group1
     newTable.body = [];
-    const headerItem = table[2].split('|'); // group2
+    const headerItem = table[2].split('|').map(v=>v.trim()); // group2
     const contents = table[3].split('\n');
     for (content of contents) {
       if (content.trim() === '') continue;
-      const items = content.split('|');
+      const items = content.split('|').map(v=>v.trim());
       const row = {};
       for (headerIndex in headerItem) {
         if (headerItem[headerIndex] === '') continue;
