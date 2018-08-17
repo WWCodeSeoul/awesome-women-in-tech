@@ -1,14 +1,14 @@
-$email-icon: url('../../../assets/img/email-icon.png');
-$facebook-icon: url('../../../assets/img/facebook-icon.png');
-$github-icon: url('../../../assets/img/github-icon.png');
-$google-plus-icon: url('../../../assets/img/google-plus-icon.png');
-$home-icon: url('../../../assets/img/home-icon.png');
-$linkedin-icon: url('../../../assets/img/linkedin-icon.png');
-$naver-blog-icon: url('../../../assets/img/naver-blog-icon.png');
-$naver-cafe-icon: url('../../../assets/img/naver-cafe-icon.png');
-$rss-icon: url('../../../assets/img/rss-icon.png');
-$slideshare-icon: url('../../../assets/img/slideshare-icon.png');
-$twitter-icon: url('../../../assets/img/twitter-icon.png');
+$email-icon: url('../../../assets/img/profile_email.png');
+$facebook-icon: url('../../../assets/img/profile_facebook.png');
+$github-icon: url('../../../assets/img/profile_github.png');
+$google-plus-icon: url('../../../assets/img/profile_home.png');
+$home-icon: url('../../../assets/img/profile_home.png');
+$linkedin-icon: url('../../../assets/img/profile_linkedin.png');
+$naver-blog-icon: url('../../../assets/img/profile_home.png');
+$naver-cafe-icon: url('../../../assets/img/profile_home.png');
+$rss-icon: url('../../../assets/img/profile_home.png');
+$slideshare-icon: url('../../../assets/img/profile_home.png');
+$twitter-icon: url('../../../assets/img/profile_home.png');
 
 .developer-list-wrapper {
   display: flex;
@@ -48,6 +48,7 @@ $twitter-icon: url('../../../assets/img/twitter-icon.png');
     text-align: center;
     position: relative;
     padding: 10px;
+    font-family: 'Nanum Brush Script', serif;
 
     &:before, &:after {
       content: '';
