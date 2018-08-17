@@ -32,6 +32,7 @@
 
 | Name | Blog | Description | Location | Social |
 |---|---|---|---|---|
+| 노우현 | https://www.rohwoohyeon.com/ | Frontend developer, Design system pioneer, Programming lecturer | 서울 | [![](icons/facebook-icon.png)](https://www.facebook.com/woohyeon.roh) [![](icons/email-icon.png)](roh.woohyeon@gmail.com) |
 
 
 ## ㄷ
