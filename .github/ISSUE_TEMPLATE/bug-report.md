@@ -1,12 +1,13 @@
 ---
 name: Bug report
-about: "\U0001F4EC Create a report to help us improve"
+about: "\U0001F4EC Create a report to help us improve awesome-women-in-tech web"
 
 ---
 
 <!--
-Thank you for you contribution!
+❗️Your issue may already be reported! Please search on the issue track before creating one.
 
+Thank you for you contribution!
 Please fill out the form below to catch the 🐛
 -->
 
@@ -32,12 +33,12 @@ Or a video link also will be help -->
 
 ## 🛠Test Environment
 
-### Desktop (please complete the following information):
+### Desktop
  - OS: [e.g. iOS]
  - Browser [e.g. chrome, safari]
  - Version [e.g. 22]
 
-### Smartphone (please complete the following information):
+### Smartphone
  - Device: [e.g. iPhone6]
  - OS: [e.g. iOS8.1]
  - Browser [e.g. stock browser, safari]
