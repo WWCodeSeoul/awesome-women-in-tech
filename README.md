@@ -13,7 +13,7 @@
 * [여성 기술 커뮤니티 및 지원 단체](organization.md)
 
 # 기여하기
-* 인명 등록 시, 풀 리퀘스트를 보내주세요. [기여방법 안내서](contribution_guide.md)
+* 인명 등록 시, 풀 리퀘스트를 보내주세요. [기여방법 안내서](.github/contribution_guide.md)
 * 새로 추가하거나 제안하고 싶은 목차가 있다면 이슈에 등록해주세요. 
-* [커뮤니티 행동강령](code_of_conduct.md)을 준수해주세요.
+* [커뮤니티 행동강령](.github/CODE_OF_CONDUCT.md)을 준수해주세요.
 
