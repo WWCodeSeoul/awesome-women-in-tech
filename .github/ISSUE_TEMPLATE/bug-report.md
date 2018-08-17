@@ -11,7 +11,8 @@ Thank you for you contribution!
 Please fill out the form below to catch the 🐛
 -->
 
-## 📋 Describe the bug
+## 📋 Failure Information
+
 
 ### Current behavior
 <!-- A clear and concise description of what the bug is. -->
@@ -30,6 +31,9 @@ Please fill out the form below to catch the 🐛
 ### Screenshots
 <!-- If applicable, add screenshots to help explain your problem.
 Or a video link also will be help -->
+
+### Failure Logs
+Please include any relevant log snippets or files here.
 
 ## 🛠Test Environment
 
