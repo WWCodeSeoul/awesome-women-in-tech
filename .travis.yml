@@ -15,4 +15,4 @@ deploy:
   github_token: $GH_TOKEN
   local_dir: website/build
   on:
-    branch: master
+    branch: PyCon2018
