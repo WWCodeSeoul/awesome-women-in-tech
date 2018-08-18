@@ -1,0 +1,18 @@
+# .travis.yml
+language: node_js
+node_js:
+  - '8'
+cache:
+  yarn: true
+script:
+  - cd website
+  - yarn install
+  - node DataBuilder.js ../korean_women.md ../abroad_women.md
+  - yarn build
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GH_TOKEN
+  local_dir: website/build
+  on:
+    branch: PyCon2018

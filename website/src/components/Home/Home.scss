@@ -1,0 +1,161 @@
+.home-section {
+  display: flex;
+  min-width: 1280px;
+  width: 100%;
+  min-height: 700px;
+  height: 100vh;
+  max-height: 826px;
+  box-sizing: border-box;
+  justify-content: center;
+  margin: 0 auto;
+  overflow: hidden;
+  padding: 0;
+  padding: 0 60px;
+
+  a {
+    text-decoration: none;
+    color: #333;
+    white-space: pre-wrap;
+  }
+
+  .column-one, .column-two, .blank-column {
+    min-width: 380px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+
+    > div {
+      width: 100%;
+    }
+  }
+
+  .column-one {
+    padding: 80px 0;
+    flex-wrap: wrap;
+    flex: 1;
+    justify-self: flex-start;
+    color: #102223;
+
+    .title-text-wrapper {
+      font-size: 3em;
+      font-family: 'Nanum Myeongjo', serif;
+      font-weight: 700;
+      justify-self: center;
+
+      .title-b {
+        margin: 0.2em 0;
+
+        div {
+          display: inline-block;
+          height: 3rem;
+        }
+
+        .blank-left-box {
+          width: 0.4rem;
+          border-top: #33777A 4px solid;
+          border-left: #33777A 6px solid;
+          border-bottom: #33777A 4px solid;
+        }
+
+        .blank-underline-box {
+          width: 12rem;
+          margin: 0 4px;
+          border-bottom: #C9DCDE 4px solid;
+        }
+
+        .blank-right-box {
+          width: 0.4rem;
+          border-top: #33777A 4px solid;
+          border-right: #33777A 6px solid;
+          border-bottom: #33777A 4px solid;
+        }
+      }
+    }
+
+    .description-wrapper {
+      padding-left: 10px;
+      box-sizing: border-box;
+
+      .description-a {
+        margin: 1.5em 0;
+        line-height: 1.4;
+      }
+
+      .description-b {
+        font-weight: 700;
+
+        span::after {
+          content: '';
+          width: 1.7em;
+          height: 4px;
+          background-color: rgba(42, 77, 64, 0.6);
+          position: absolute;
+          margin-left: -1.7em;
+          margin-top: .4em;
+        }
+      }
+    }
+  }
+  
+  .column-two {
+    height: 100%;
+    justify-content: flex-start;
+    width: 380px;
+
+    .column-content-wrapper {
+      background-color: #2a4d40;
+      width: 380px;
+      height: 100%;
+      box-sizing: border-box;
+      padding: 80px 20px;
+      display: flex;
+      align-items: flex-end;
+      justify-content: flex-end;
+      flex-direction: column;
+      color: white;
+      font-weight: 700;
+      text-align: right;
+      font-size: 1.1em;
+      position: relative;
+
+      .column-image {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(11, 55, 63, 0.8);
+        background-blend-mode: darken;
+        background-size: cover;
+        background-position-x: center;
+        background-position-y: center;
+
+        &.image-a {
+          background-image: url('../../assets/img/main_picture_01.jpg')
+        }
+      }
+
+      div {
+        width: 100%;
+      }
+
+      .title-text, .cohort-name {
+        position: relative;
+      }
+
+      .title-text {
+        margin-bottom: 1rem;
+      }
+    
+    }
+  }
+
+  .blank-column {
+    flex: 1;
+    min-width: 380px;
+    align-items: flex-end;
+    justify-content: flex-end;
+    justify-self: flex-end;
+  }
+}

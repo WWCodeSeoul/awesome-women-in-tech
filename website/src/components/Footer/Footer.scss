@@ -1,0 +1,33 @@
+.Footer {
+  $fontSize: .6em;
+  $fontColor: #bfbfbf;
+  $iconGitHub: url('../../assets/img/footer_github.png');
+  $iconFacebook: url('../../assets/img/footer_facebook.png');
+
+  height: 80px;
+
+  .copyrights {
+    font-size: $fontSize;
+    color: $fontColor;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  
+    .icon {
+      display: inline-block;
+      width: 1.8em;
+      height: 1.8em;
+      background-size: 100%;
+      margin-left: .6em;
+  
+      &.icon-github {
+        background-image: $iconGitHub;
+      }
+  
+      &.icon-facebook {
+        background-image: $iconFacebook;
+      }
+    }
+  }
+
+}
