@@ -58,8 +58,8 @@
 
 | Name | Blog | Description | Location | Social |
 |---|---|---|---|---|
+| 신하늬 | https://gksmldia.github.io/ | Web and programmer, Growth Engineer | 서울 | [![](icons/facebook-icon.png)](https://www.facebook.com/hanui.shin) [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/dodol-123456/)| [![](icons/email-icon.png)](gksmldia@gmail.com) |
 | 신하영 | https://edustella.github.io/ | researcher, feminist, supporter for women in tech | 서울 | [![](icons/facebook-icon.png)](https://www.facebook.com/stella.h.shin) [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/stella-hayoung-shin/)| [![](icons/email-icon.png)](edustella@daum.net) |
-
 
 
 ## ㅇ
@@ -82,6 +82,7 @@
 | 진유림 | https://milooy.wordpress.com/ | Frontend, [9XD](http://9xd.github.io/)| 서울 | |
 | 정다해 | https://blog.naver.com/english_daram_g | Web Developer | 서울 | |
 | 조은량 | https://github.com/tadanmf/ | Web Programmer, Junior Developer | 서울 | [![](icons/facebook-icon.png)](https://www.facebook.com/tadanmf) [![](icons/email-icon.png)](tadanmf@gmail.com) [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/tamiii/) |
+| 조혜선 | https://github.com/veroniquecho/ | Communications in blockchain | 서울 | [![](icons/facebook-icon.png)](https://www.facebook.com/jasminefromsingapore) [![](icons/email-icon.png)](hyesun.cho13@gmail.com) [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/veronique-cho-a7216857/) |
 | 지현정 | https://existingjeong.blogspot.com/ | C, C# | 부산 | |
 | 정성윤|  | Data scientist | 서울 | [![](icons/email-icon.png)](seongyoon.me@gmail.com) |
 | 정유진 | https://cargocollective.com/yujinchung | Prdouct Marketing Manager, Growth | 서울 |  [![](icons/facebook-icon.png)](https://www.facebook.com/chung.yujin) [![](icons/twitter-icon.png)](https://twitter.com/socialtechnica) [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/chungyujin/)|
