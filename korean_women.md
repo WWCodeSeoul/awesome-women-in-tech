@@ -79,9 +79,8 @@
 | 오다혜 | https://blog.ohda.fun | Frontend Web, UI, UX (+ Interior design and Ashtanga yoga) | 서울 |[![](icons/facebook-icon.png)](https://www.facebook.com/ohdayoda) [![](icons/github-icon.png)](https://github.io/yogicat) [![](icons/email-icon.png)](dahe.oh@gmail.com) |
 | 이다혜 | https://github.com/Dalbongjooin | Human Movement, 데잇걸스 2기, Basketball, Dog  | 서울 | [![](icons/facebook-icon.png)](https://www.facebook.com/profile.php?id=100001532013828) |
 | 이진주 | https://github.com/pearLias | WWCODE | 경기 | [![](icons/email-icon.png)](jinju2415@gmail.com) |
-
-
-
+| 이은지 | https://brunch.co.kr/@youngestsalon | Data Scientist, DataItGirls2, Accounting | 서울 | [![](icons/github-icon.png)](https://github.io/youngestsalon) [![](icons/email-icon.png)](youngestsalon@gmail.com) [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/youngestsalon/) |
+=======
 
 
 ## ㅈ
