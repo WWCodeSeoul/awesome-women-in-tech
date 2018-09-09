@@ -112,4 +112,5 @@
 
 | Name | Blog | Description | Location | Social |
 |---|---|---|---|---|
+| 한주연 | https://github.com/jennybeblog | Web Frontend | 서울 | [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/jennybe-han/) |
 | 홍유정 | https://youjungeee.github.io | 프론트엔드 개발자 | 서울 | |
