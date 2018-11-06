@@ -1,19 +1,18 @@
-
 # 여성 기술 커뮤니티 및 지원 단체
+
 ## 국내
 
 | Name | Website | Description | Location | Social |
 |---|---|---|---|---|
-| Django Girls Seoul |  |  | 서울 |[![](icons/facebook-icon.png)](https://www.facebook.com/djangogirlsseoul)|
-| Django Girls Daejeon |  |  | 대전 | [![](icons/facebook-icon.png)](https://www.facebook.com/djangogirlsdaejeon)|
-| Girls In Tech | http://seoul.girlsintech.org/ | 기술 분야의 여성들을 위한 세미나와 교육, 네트워킹을 하는 글로벌 커뮤니티 입니다. | 서울 |  [![](icons/facebook-icon.png)](https://www.facebook.com/GITSeoul/)|
-| Women Who Code Seoul |  | 기술 분야의 여성들을 위한 세미나와 교육, 네트워킹을 하는 글로벌 커뮤니티 입니다. | 서울 |  [![](icons/facebook-icon.png)](https://www.facebook.com/wwcodeseoul)|
-| 걸스로봇 | http://girlsrobot.co.kr/ | 걸스로봇은 더 많은 여성들이 이공계 분야에 진출해 끝까지 살아남을 수 있도록 돕는 소셜벤처입니다. |  |  [![](icons/facebook-icon.png)](https://www.facebook.com/GirlsRobot/)|
-| 고려대이공계여학생네트워크 |  | 이공계 전공 및 테크 업계 지망 여학생들 간 네트워킹, 임파워링, 및 교육 지원을 목표로 활동하는 학생단체입니다. |  |  [![](icons/facebook-icon.png)](https://www.facebook.com/KoreaUnivWise/)|
-| 스타트업 여성들의 일과 삶 |  | 기술 분야의 여성들을 위한 세미나와 교육, 네트워킹을 하는 글로벌 커뮤니티 입니다. | 서울 |  [![](icons/facebook-icon.png)](https://www.facebook.com/groups/StartupWomenInKorea/)|
-| 여성개발자모임터 |  |  | 서울 |  [![](icons/naver-cafe-icon.png)](http://cafe.naver.com/womendevel/) [![](icons/facebook-icon.png)](https://www.facebook.com/groups/womendevel/)|
-| 스페이스살림-디지털살림 |http://blog.naver.com/space-salim/|여성의 디지털 분야 진출과 활동을 지원하는 공간 & 프로젝트. 서울시여성가족재단 운영| 서울 |  [![](icons/naver-blog-icon.png)](http://blog.naver.com/space-salim/) [![](icons/facebook-icon.png)](https://www.facebook.com/2020spacesalim/)|
-
+| Django Girls Seoul |  |  | 서울 | [![Facebook Page](icons/facebook-icon.png)](https://www.facebook.com/djangogirlsseoul/) |
+| Django Girls Daejeon |  |  | 대전 | [![Facebook Page](icons/facebook-icon.png)](https://www.facebook.com/djangogirlsdaejeon/) |
+| Girls In Tech | <http://seoul.girlsintech.org/> | 기술 분야의 여성들을 위한 세미나와 교육, 네트워킹을 하는 글로벌 커뮤니티 입니다. | 서울 | [![Facebook Page](icons/facebook-icon.png)](https://www.facebook.com/GITSeoul/) |
+| Women Who Code Seoul |  | 기술 분야의 여성들을 위한 세미나와 교육, 네트워킹을 하는 글로벌 커뮤니티 입니다. | 서울 | [![Facebook Page](icons/facebook-icon.png)](https://www.facebook.com/wwcodeseoul/) |
+| 걸스로봇 | <http://girlsrobot.co.kr/> | 걸스로봇은 더 많은 여성들이 이공계 분야에 진출해 끝까지 살아남을 수 있도록 돕는 소셜벤처입니다. |  | [![Facebook Page](icons/facebook-icon.png)](https://www.facebook.com/GirlsRobot/) |
+| 고려대이공계여학생네트워크 |  | 이공계 전공 및 테크 업계 지망 여학생들 간 네트워킹, 임파워링, 및 교육 지원을 목표로 활동하는 학생단체입니다. |  | [![Facebook Group](icons/facebook-icon.png)](https://www.facebook.com/KoreaUnivWise/) |
+| 스타트업 여성들의 일과 삶 |  | 기술 분야의 여성들을 위한 세미나와 교육, 네트워킹을 하는 글로벌 커뮤니티 입니다. | 서울 | [![Facebook Group](icons/facebook-icon.png)](https://www.facebook.com/groups/StartupWomenInKorea/) |
+| 여성개발자모임터 | <https://cafe.naver.com/womendevel>  |  | 서울 | [![Naver Cafe](icons/naver-cafe-icon.png)](http://cafe.naver.com/womendevel/) [![Facebook Group](icons/facebook-icon.png)](https://www.facebook.com/groups/womendevel/) |
+| 스페이스살림-디지털살림 | <http://blog.naver.com/space-salim> |여성의 디지털 분야 진출과 활동을 지원하는 공간 & 프로젝트. 서울시여성가족재단 운영| 서울 | [![Naver Blog](icons/naver-blog-icon.png)](http://blog.naver.com/space-salim) [![Facebook Page](icons/facebook-icon.png)](https://www.facebook.com/2020spacesalim/) |
 
 ## 해외
 
@@ -37,7 +36,7 @@
 | Women Who Tech | https://www.womenwhotech.com/ | 재능과 대중적 인지도를 가진 여성들을 모아 세상을 바꾸기 위한 새로운 영역을 개척하고, 고무적 변화를 불러일으키고자 하는 비영리기관 입니다. |  |  |
 | Yes We Tech | http://yeswetech.org/ | 평등주의자와 기술에 흥미를 가진 여성의 자랑스러운 문화를 위해 일하는 페미니스트 커뮤니티 입니다. |  |  |
 
-
+---
 
 - [Black Girls Code](http://www.blackgirlscode.com/) - Organization devoted to showing the world that black girls can code.
 
@@ -74,5 +73,3 @@
 - [Wonder Women Tech](https://wonderwomentech.com/) - Organization that produces year-round programming and national and international conferences that highlight, educate, and celebrate women and diversity in STEAM (Science, Technology, Engineering, Arts, Math), innovation and entrepreneurialism.
 
 - [YesWeTech](http://yeswetech.org/) - Feminist community working for an egalitarian and proud culture of women interested in technology.
-
-
