@@ -106,6 +106,7 @@
 | Name | Blog | Description | Location | Social |
 |---|---|---|---|---|
 | 채수정 | https://github.com/SooJungChae | Frontend Web, Spring, C#, UX/UI design | 성남 | [![](icons/facebook-icon.png)](https://www.facebook.com/soojung.chae.3) [![](icons/naver-blog-icon.png)](https://blog.naver.com/naan_ace)|
+| 최나실 | https://nashu.dev | Web Frontend, Javascript, React, Python (hodoo🐶♥️) | 서울 | [![](icons/email-icon.png)](choinashil@gmail.com) [![](icons/facebook-icon.png)](https://www.facebook.com/profile.php?id=100040943073898) [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/%EB%82%98%EC%8B%A4-%EC%B5%9C-971481185/)|
 | 최지영 | https://github.com/jiyoung-choi | Data Analyst, Growth Hacker | 서울 |[![](icons/email-icon.png)](jiyoung031@gmail.com)|
 ## ㅍ
 
